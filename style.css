@@ -1,7 +1,22 @@
-body {
-    font-size: 16px;
-
+header {
+    background-image: url("layer1.png");
+    height:304px;
 }
-h1 {
-    font-size: 30px;
+footer {
+    background-color:black;
+    color:aqua;
+}
+.menu {
+    background-color:#e7e6d4;
+}
+.meni-item {
+    float:left;
+    width:20%;
+    
+}
+.services, .testimonials {
+    float:left;
+}
+.section-2 {
+    background-color:#f3f2e9;    
 }
